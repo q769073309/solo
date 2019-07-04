@@ -33,7 +33,6 @@ import java.util.Locale;
 public final class ThumbnailsTestCase {
 
     /**
-     * Test method for {@linkplain Solos#getGravatarURL(String, String)}.
      *
      * @throws Exception exception
      */
